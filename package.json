@@ -1,0 +1,28 @@
+{
+  "name": "mininodeserver",
+  "version": "0.0.1",
+  "description": "A tiny node server that just serves a public directory",
+  "contributors": [{
+    "name": "Naomi Rosenberg",
+    "email": "naomirosenberguk@gmail.com"
+  }, {
+    "name": "Peter Carter",
+    "email": "peter.carter.mail@gmail.com"
+  }],
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoegrammer/mininodeserver"
+  },
+  "bugs": {
+    "url": "https://github.com/hoegrammer/mininodeserver/issues"
+  },
+  "dependencies": {
+    "express": "4.x"
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
